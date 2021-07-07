@@ -1,0 +1,32 @@
+{
+    "user": {
+        "name": {
+            "first": "Charles",
+            "middle": ["Christopher"],
+            "last": "Woelfel",
+            "prefix": "",
+            "suffix": "",
+            "nickname": "Chris",
+            "profile_alias": "zedox"
+        },
+        "location": {
+            "country": "United States",
+            "state": "North Carolina",
+            "state_short": "NC",
+            "city": "",
+            "region": ""
+        },
+        "profile_picture": {
+            "default": "/images/profile.png",
+            "large": "/images/profile_large.png",
+            "small": "/images/profile_small.png"
+        }
+    },
+    "services": {
+        "self-verify-example": {
+            "url": "http://github.com/chriswoelfel/self-verify-example",
+            "key": "THISISMYPUBLICKEY",
+            "sync_api": "/api/v1/account/sync"
+        }
+    }
+}
